@@ -6,6 +6,6 @@
 
 |No |시각화 |
 |:---:|:-------------------:|
-|1 |[월별 코스피지수 시각화](https://github.com/teng-ny/Analyst_service/blob/main/request3/%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B8%B0%EC%97%85%20%EC%83%81%EC%9E%A5%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) |
+|1 |[월별 코스피지수 시각화](https://github.com/teng-ny/Analyst_service/blob/main/request3/%EC%9B%94%EB%B3%84%20%EC%BD%94%EC%8A%A4%ED%94%BC%EC%A7%80%EC%88%98%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) |
 
 <img src = "https://user-images.githubusercontent.com/96412996/211831114-3be5b03e-616b-49e4-9d1e-5be825fe1229.png" width="75%" height="60%">
