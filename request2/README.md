@@ -1,4 +1,4 @@
-#### 💻 request : bar graph + line graph
+### 💻 request : bar graph + line graph
 <br>
 
 > bar graph : 2018,2019년 대비 2020, 2021년 "소프트웨어 업종" 상장된 법인 수
