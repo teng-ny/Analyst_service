@@ -10,6 +10,4 @@
 |1 |[데이터 전처리 후 bar+line그래프 시각화](https://github.com/teng-ny/Analyst_service/blob/main/request2/%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B8%B0%EC%97%85%20%EC%83%81%EC%9E%A5%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) |
 <br>
 
-
-<img src = "![화면 캡처 2023-01-11 145403](https://user-images.githubusercontent.com/96412996/211728322-8751abf9-24dc-4fe6-87a2-93c80caa662c.png)" width="20%" height="20%">
-
+<img src = "https://user-images.githubusercontent.com/96412996/211728322-8751abf9-24dc-4fe6-87a2-93c80caa662c.png" width="35%" height="35%">
