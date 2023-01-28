@@ -4,6 +4,10 @@
 >3개년(19-21년) 월별 코스피지수 시각화
 <br>
 
+* 어려운 의뢰를 받아도 솟아날 구멍은 있다!  
+* 태블로&python을 활용하여 시각화를 진행  
+
+
 |No |시각화 |
 |:---:|:-------------------:|
 |1 |[월별 코스피지수 시각화](https://github.com/teng-ny/Analyst_service/blob/main/request3/%EC%9B%94%EB%B3%84%20%EC%BD%94%EC%8A%A4%ED%94%BC%EC%A7%80%EC%88%98%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) |
