@@ -18,7 +18,7 @@
 |request4 |[고령화 인구를 고려한 추가 복지센터 고안 분석](https://github.com/teng-ny/Analyst_service/tree/main/request4) |
 |request5 |[버스 승차요청 데이터를 활용한 배차요청수요 특성 파악](https://github.com/teng-ny/Analyst_service/tree/main/request5) |
 |request6 |타 매장에 한우 샤브샤브 메뉴 추가시 판매량 예측, 가격 적정성 분석 |
-|request7 |호텔 평가 데이터 EDA 및 인사이트 발견 |
+|request7 |[호텔 평가 데이터 EDA 및 인사이트 발견](https://github.com/teng-ny/Analyst_service/tree/main/request7) |
 <br>
 
 *↑ 클릭하시면 해당 페이지로 연결됩니다*
